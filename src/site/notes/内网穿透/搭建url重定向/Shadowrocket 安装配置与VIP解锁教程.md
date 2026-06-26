@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//url/shadowrocket-vip/","dg-note-properties":{"modified":"2026-06-26T18:16:21+08:00"}}
+{"dg-publish":true,"permalink":"//url/shadowrocket-vip/","tags":["gardenEntry"],"dg-note-properties":{"modified":"2026-06-26T18:32:05+08:00"}}
 ---
 
 
