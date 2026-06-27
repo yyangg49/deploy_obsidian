@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/0publish/shadowrocket-vip/","tags":["gardenEntry"],"dg-note-properties":{"modified":"2026-06-26T22:14:53+08:00"}}
+{"dg-publish":true,"permalink":"/0publish/shadowrocket-vip/","tags":["gardenEntry"],"dg-note-properties":{"modified":"2026-06-27T08:54:59+08:00"}}
 ---
 
 
-## 最终 使用效果预览
+## 最终使用效果预览
 
 > 以下是安装配置完成后的效果，供参考对照。
 
