@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0publish/loon-vip/","tags":["gardenEntry"],"dg-note-properties":{"modified":"2026-07-09T13:36:35+08:00"}}
+{"dg-publish":true,"permalink":"/0publish/loon-vip/","tags":["gardenEntry"],"dg-note-properties":{"modified":"2026-07-09T13:40:33+08:00"}}
 ---
 
 
@@ -56,7 +56,7 @@ Loon 是 **付费软件**，售价为 **$7.99**（约 ¥56），需要美区 App
 
 ### 安装步骤
 
-在 App Store 中搜索 `Loon`，找到 Loon 应用（图标为蓝色羽毛），点击下载安装。
+在 App Store 中搜索 `Loon`，找到 Loon 应用，点击下载安装。
 
 ![_resources/Pasted image 20260706094033.png](/img/user/_resources/Pasted%20image%2020260706094033.png)
 
