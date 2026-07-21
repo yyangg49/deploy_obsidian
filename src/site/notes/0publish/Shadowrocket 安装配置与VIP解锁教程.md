@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/0publish/shadowrocket-vip/","tags":["gardenEntry"],"dg-note-properties":{"modified":"2026-07-18T14:37:46+08:00","created":"2026-06-27T10:17","updated":"2026-07-09T13:37"}}
+{"dg-publish":true,"permalink":"/0publish/shadowrocket-vip/","tags":["gardenEntry"],"dg-note-properties":{"modified":"2026-07-21T22:21:48+08:00","created":"2026-06-27T10:17","updated":"2026-07-21T22:13"}}
 ---
 
 
 ## 最终使用效果预览
 
 > 以下是安装配置完成后的效果，供参考对照。
+
+**操作演示视频：**
+
+<video controls preload="metadata" width="100%" style="max-width:560px; border-radius:8px;">
+  <source src="https://r2.409696.xyz/shards/sr.mp4" type="video/mp4" />
+  你的浏览器不支持 video 标签，请改用 <a href="https://r2.409696.xyz/shards/sr.mp4">此链接</a> 观看视频。
+</video>
 
 **开启工具连接：**
 
