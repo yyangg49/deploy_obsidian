@@ -1,18 +1,26 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sr","permalink":"/dg/sr/","dg-note-properties":{"modified":"2026-07-21T22:35:19+08:00","created":"2026-06-27T10:17","updated":"2026-07-21T22:13"}}
+{"dg-publish":true,"dg-path":"dg/sr","permalink":"/dg/sr/","tags":["gardenEntry"],"dg-note-properties":{"modified":"2026-07-22T13:36:32+08:00","created":"2026-06-27T10:17","updated":"2026-07-21T22:41"}}
 ---
 
 
-## 最终使用效果预览
+## 联系方式
 
-> 以下是安装配置完成后的效果，供参考对照。
+![_resources/43f7a64abea852d1109e78827219660e.jpg\|350](/img/user/_resources/43f7a64abea852d1109e78827219660e.jpg)
 
-**操作演示视频：**
+---
+
+## 操作演示视频
 
 <video controls preload="metadata" width="100%" style="max-width:560px; border-radius:8px;">
   <source src="https://r2.409696.xyz/shards/sr.mp4" type="video/mp4" />
   你的浏览器不支持 video 标签，请改用 <a href="https://r2.409696.xyz/shards/sr.mp4">此链接</a> 观看视频。
 </video>
+
+---
+
+## 最终使用效果预览
+
+> 以下是安装配置完成后的效果，供参考对照。
 
 **开启工具连接：**
 
