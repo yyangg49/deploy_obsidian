@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-08T12:08"}}
+{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-08T12:14"}}
 ---
 
 
@@ -169,7 +169,7 @@
 
 **操作流程：**
 
-1. 在闲鱼搜索 **"iOS 降级"**、**"App 降级"** 或 **"Shadowrocket 降级"**
+1. 在闲鱼搜索 **"iOS 降级"**、**"App 降级"** 或 **"Stash 降级"**
 2. 选择信誉较好的卖家，提供你的 **Apple ID 账号密码**
 3. 告知卖家需要降级的 **应用名称** 和目标 **版本号**
 4. 卖家操作完成后，在 App Store 已购项目中重新下载即可
