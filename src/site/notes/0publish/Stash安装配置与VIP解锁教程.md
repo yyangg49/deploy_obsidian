@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T20:50","modified":"2026-08-10T09:24:29+08:00"}}
+{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:08","modified":"2026-08-10T09:24:29+08:00"}}
 ---
 
 
 ## 联系方式
 
-**!!!请先添加售后!!!**，如果参考视频教程操作完后，需要查看 [[#第八步：配置`按需连接`防止VPN意外断开]]后的所有操作。
+**!!!请先添加售后，后面需要提供相应的插件链接!!!**，如果参考视频教程操作完后，需要查看 [[0publish/Stash安装配置与VIP解锁教程#第八步：配置按需连接防止VPN意外断开\|#第八步：配置按需连接防止VPN意外断开]]后的所有操作。
 
 ![_resources/43f7a64abea852d1109e78827219660e.jpg\|350](/img/user/_resources/43f7a64abea852d1109e78827219660e.jpg)
 
@@ -49,6 +49,7 @@
 ![Pasted image 20260807205734.png\|350](/img/user/_resources/Pasted%20image%2020260807205734.png)
 
 ## 第五步：安装 CA 证书
+
 ![Pasted image 20260807205831.png\|350](/img/user/_resources/Pasted%20image%2020260807205831.png)
 
 ![Pasted image 20260807205910.png\|350](/img/user/_resources/Pasted%20image%2020260807205910.png)
@@ -123,7 +124,7 @@
 ![Pasted image 20260807212204.png\|350](/img/user/_resources/Pasted%20image%2020260807212204.png)
 
 
-## 第八步：配置`按需连接`防止VPN意外断开
+## 第八步：配置按需连接防止VPN意外断开
 
 ![_resources/202aad1f2d3038f8672427c6f89c875a_MD5.png\|350](/img/user/_resources/202aad1f2d3038f8672427c6f89c875a_MD5.png)
 
