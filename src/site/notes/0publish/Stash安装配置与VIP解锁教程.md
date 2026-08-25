@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-08T12:14"}}
+{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T20:47","modified":"2026-08-10T09:24:29+08:00"}}
 ---
 
 
 ## 联系方式
+
+**请先添加售后**
 
 ![_resources/43f7a64abea852d1109e78827219660e.jpg\|350](/img/user/_resources/43f7a64abea852d1109e78827219660e.jpg)
 
@@ -121,7 +123,13 @@
 ![Pasted image 20260807212204.png\|350](/img/user/_resources/Pasted%20image%2020260807212204.png)
 
 
-## 第八步：关闭 iOS 软件自动更新
+## 第八步：配置`按需连接`防止VPN意外断开
+
+![_resources/202aad1f2d3038f8672427c6f89c875a_MD5.png\|350](/img/user/_resources/202aad1f2d3038f8672427c6f89c875a_MD5.png)
+
+![_resources/11296c1236dc048180afd228080f3760_MD5.png\|350](/img/user/_resources/11296c1236dc048180afd228080f3760_MD5.png)
+
+## 第九步：关闭 iOS 软件自动更新
 
 > [!warning] 重要提示
 > 为避免系统或应用自动更新后导致配置失效，建议关闭 iOS 的软件自动更新功能。
@@ -148,7 +156,7 @@
 
 ---
 
-## 第九步：iOS 软件降级（救急方案）
+## 第十步：iOS 软件降级（救急方案）
 
 > [!warning] 什么情况需要降级？
 > 如果你不小心更新了应用，导致之前的配置失效、VIP 解锁功能无法正常使用，或者新版本存在兼容性问题，这时可以考虑将应用降级到之前的稳定版本。
