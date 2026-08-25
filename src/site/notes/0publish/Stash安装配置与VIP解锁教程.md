@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T20:47","modified":"2026-08-10T09:24:29+08:00"}}
+{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T20:50","modified":"2026-08-10T09:24:29+08:00"}}
 ---
 
 
 ## 联系方式
 
-**请先添加售后**
+**!!!请先添加售后!!!**，如果参考视频教程操作完后，需要查看 [[#第八步：配置`按需连接`防止VPN意外断开]]后的所有操作。
 
 ![_resources/43f7a64abea852d1109e78827219660e.jpg\|350](/img/user/_resources/43f7a64abea852d1109e78827219660e.jpg)
 
