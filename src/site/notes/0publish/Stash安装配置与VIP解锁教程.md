@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:08","modified":"2026-08-10T09:24:29+08:00"}}
+{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:36","modified":"2026-08-10T09:24:29+08:00"}}
 ---
 
 
@@ -124,7 +124,7 @@
 ![Pasted image 20260807212204.png\|350](/img/user/_resources/Pasted%20image%2020260807212204.png)
 
 
-## 第八步：配置按需连接防止VPN意外断开
+## 第八步：配置-按需连接-防止VPN意外断开
 
 ![_resources/202aad1f2d3038f8672427c6f89c875a_MD5.png\|350](/img/user/_resources/202aad1f2d3038f8672427c6f89c875a_MD5.png)
 
