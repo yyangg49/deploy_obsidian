@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:36","modified":"2026-08-10T09:24:29+08:00"}}
+{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:43","modified":"2026-08-27T11:27:56+08:00"}}
 ---
 
+## 系统要求
+
+- IOS15 及以上
+
+
+> [!TIP] 提示
+> 如果低于IOS15可能不能正常工作
 
 ## 联系方式
 
