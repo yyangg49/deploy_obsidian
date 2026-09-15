@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:43","modified":"2026-08-27T11:27:56+08:00"}}
+{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:43","modified":"2026-09-15T18:03:55+08:00"}}
 ---
 
 ## 系统要求
@@ -204,3 +204,53 @@
 ![../../_resources/Pasted image 20260709115011.png\|350](/img/user/_resources/Pasted%20image%2020260709115011.png)
 
 ---
+
+
+## 后续更新（使用到期后续期）
+
+> [!TIP] 什么时候需要更新？
+> 插件的解锁效果有时效限制。**会员有效期到期、或解锁功能失效**时，无需重装 Stash 或重新配置，只需删除旧插件并重新下载新模块链接即可续期。
+
+> [!warning] 更新前请先联系售后
+> 每次到期后需要提供**最新的模块链接**，请勿直接使用已过期的旧链接。
+
+### 步骤 1：删除旧插件
+
+点击 **覆写**，进入覆写页面：
+
+![Pasted image 20260807211141.png\|350](/img/user/_resources/Pasted%20image%2020260807211141.png)
+
+长按待删除的旧插件，然后点击 **删除**：
+
+![0publish/attachments/Pasted image 20260915175733.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260915175733.png)
+
+### 步骤 2：下载新模块
+
+点击右上角 **+** 按钮，选择 **从 URL 下载配置...**，将售后提供的**新模块链接**粘贴到输入框中，点击 **下载**。
+
+![Pasted image 20260807211324.png\|350](/img/user/_resources/Pasted%20image%2020260807211324.png)
+
+![Pasted image 20260807211346.png\|350](/img/user/_resources/Pasted%20image%2020260807211346.png)
+
+![Pasted image 20260807211609.png\|350](/img/user/_resources/Pasted%20image%2020260807211609.png)
+
+### 步骤 3：安装新模块
+
+下载完成后，向下滑动找到 **安装** 按钮，点击 **安装** 即可。
+
+![Pasted image 20260807211848.png\|350](/img/user/_resources/Pasted%20image%2020260807211848.png)
+
+![Pasted image 20260807211940.png\|350](/img/user/_resources/Pasted%20image%2020260807211940.png)
+
+![Pasted image 20260807212115.png\|350](/img/user/_resources/Pasted%20image%2020260807212115.png)
+
+### 步骤 4：重新连接并验证
+
+1. 回到 Stash 首页，将 VPN **断开后重新连接**（显示"断开"即为已连接状态）
+2. 参考 [[0publish/Stash安装配置与VIP解锁教程#验证：确认 VIP 已解锁\|#验证：确认 VIP 已解锁]] 检查会员有效期是否已刷新为新周期
+
+> [!note] 提示
+> 删除旧插件不会影响配置文件和 CA 证书，整个过程只需 1 分钟左右。若更新后仍未生效，请确认模块链接为最新版本。
+
+
+
