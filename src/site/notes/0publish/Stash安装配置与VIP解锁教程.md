@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:43","modified":"2026-09-15T18:03:55+08:00"}}
+{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-08-25T21:43","modified":"2026-09-15T18:14:25+08:00"}}
 ---
 
 ## 系统要求
@@ -38,52 +38,52 @@
 在 App Store 中搜索 `Stash`，点击下载安装。
 
 
-![Pasted image 20260807204229.png\|350](/img/user/_resources/Pasted%20image%2020260807204229.png)
+![Pasted image 20260807204229.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807204229.png)
 
 ## 第二步：进入配置页面
 
 打开 Stash，点击左上角的`Default`选项卡，进入配置详情。
 
 安装成功后进入软件
-![Pasted image 20260807204524.png\|350](/img/user/_resources/Pasted%20image%2020260807204524.png)
+![Pasted image 20260807204524.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807204524.png)
 
 ## 第三步：创建配置文件 
 
-![Pasted image 20260807204610.png\|350](/img/user/_resources/Pasted%20image%2020260807204610.png)
-![Pasted image 20260807204714.png\|350](/img/user/_resources/Pasted%20image%2020260807204714.png)
+![Pasted image 20260807204610.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807204610.png)
+![Pasted image 20260807204714.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807204714.png)
 ## 第四步：配置MitM
 
-![Pasted image 20260807205734.png\|350](/img/user/_resources/Pasted%20image%2020260807205734.png)
+![Pasted image 20260807205734.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807205734.png)
 
 ## 第五步：安装 CA 证书
 
-![Pasted image 20260807205831.png\|350](/img/user/_resources/Pasted%20image%2020260807205831.png)
+![Pasted image 20260807205831.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807205831.png)
 
-![Pasted image 20260807205910.png\|350](/img/user/_resources/Pasted%20image%2020260807205910.png)
+![Pasted image 20260807205910.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807205910.png)
 
 输入锁屏密码
-![Pasted image 20260807205948.png\|350](/img/user/_resources/Pasted%20image%2020260807205948.png)
+![Pasted image 20260807205948.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807205948.png)
 
 点击 **允许**
-![Pasted image 20260807210113.png\|350](/img/user/_resources/Pasted%20image%2020260807210113.png)
+![Pasted image 20260807210113.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210113.png)
 
 点击 **关闭**，然后打开系统 **设置** App 继续安装描述文件
 
-![Pasted image 20260807210141.png\|350](/img/user/_resources/Pasted%20image%2020260807210141.png)
+![Pasted image 20260807210141.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210141.png)
 
 ## 第六步：在系统设置中安装描述文件
 
 打开 **设置 → 通用 → VPN 与设备管理**，在「已下载的描述文件」一栏中找到 Stash 的描述文件，点击进入。
 
-![Pasted image 20260807210318.png\|350](/img/user/_resources/Pasted%20image%2020260807210318.png)
+![Pasted image 20260807210318.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210318.png)
 
-![Pasted image 20260807210349.png\|350](/img/user/_resources/Pasted%20image%2020260807210349.png)
+![Pasted image 20260807210349.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210349.png)
 输入锁屏密码
 
-![Pasted image 20260807210405.png\|350](/img/user/_resources/Pasted%20image%2020260807210405.png)
-![Pasted image 20260807210506.png\|350](/img/user/_resources/Pasted%20image%2020260807210506.png)
+![Pasted image 20260807210405.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210405.png)
+![Pasted image 20260807210506.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210506.png)
 
-![Pasted image 20260807210524.png\|350](/img/user/_resources/Pasted%20image%2020260807210524.png)
+![Pasted image 20260807210524.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210524.png)
 ## 第七步：信任证书
 
 描述文件安装完成后，还需要在系统中手动信任该证书：
@@ -91,35 +91,35 @@
 前往 **设置 → 通用 → 关于本机**，滑到最底部找到 **证书信任设置**。
 
 
-![Pasted image 20260807210553.png\|350](/img/user/_resources/Pasted%20image%2020260807210553.png)
+![Pasted image 20260807210553.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210553.png)
 
-![Pasted image 20260807210742.png\|350](/img/user/_resources/Pasted%20image%2020260807210742.png)
+![Pasted image 20260807210742.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210742.png)
 
 最新Stash下这3个都要是绿色的勾
-![Pasted image 20260807210931.png\|350](/img/user/_resources/Pasted%20image%2020260807210931.png)
+![Pasted image 20260807210931.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807210931.png)
 ## 附加：通过覆写解锁 VIP 功能
 
 **步骤 1：** 点击 **覆写**。
-![Pasted image 20260807211141.png\|350](/img/user/_resources/Pasted%20image%2020260807211141.png)
+![Pasted image 20260807211141.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211141.png)
 
 **步骤 2：** 点击右上角 **+** 按钮，选择 **从 URL 下载配置...**，将模块链接粘贴到输入框中，点击 **下载**。
 
-![Pasted image 20260807211324.png\|350](/img/user/_resources/Pasted%20image%2020260807211324.png)
+![Pasted image 20260807211324.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211324.png)
 
-![Pasted image 20260807211346.png\|350](/img/user/_resources/Pasted%20image%2020260807211346.png)
+![Pasted image 20260807211346.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211346.png)
 
-![Pasted image 20260807211609.png\|350](/img/user/_resources/Pasted%20image%2020260807211609.png)
+![Pasted image 20260807211609.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211609.png)
 
 **步骤 3：** 下载完成后，向下滑动找到**安装**的按钮，点击**安装**即可
 
-![Pasted image 20260807211848.png\|350](/img/user/_resources/Pasted%20image%2020260807211848.png)
+![Pasted image 20260807211848.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211848.png)
 
 
-![Pasted image 20260807211940.png\|350](/img/user/_resources/Pasted%20image%2020260807211940.png)
-![Pasted image 20260807212115.png\|350](/img/user/_resources/Pasted%20image%2020260807212115.png)
+![Pasted image 20260807211940.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211940.png)
+![Pasted image 20260807212115.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807212115.png)
 >[!note] 注意
 >最终软件是要开启才会生效，即如下图显示**断开** 表示已经连接
->![_resources/97e75621b5ab5e58e624719b31ce6675_MD5.png\|350](/img/user/_resources/97e75621b5ab5e58e624719b31ce6675_MD5.png)
+>![97e75621b5ab5e58e624719b31ce6675_MD5.png\|350](/img/user/0publish/attachments/97e75621b5ab5e58e624719b31ce6675_MD5.png)
 
 
 
@@ -128,14 +128,14 @@
 
 成功后，回到 deepeng 首页，点击右上角头像进入 **VIP 会员** 页面。如果看到金色 VIP 卡片，且显示会员有效期，即表示解锁成功。
 
-![Pasted image 20260807212204.png\|350](/img/user/_resources/Pasted%20image%2020260807212204.png)
+![Pasted image 20260807212204.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807212204.png)
 
 
 ## 第八步：配置-按需连接-防止VPN意外断开
 
-![_resources/202aad1f2d3038f8672427c6f89c875a_MD5.png\|350](/img/user/_resources/202aad1f2d3038f8672427c6f89c875a_MD5.png)
+![202aad1f2d3038f8672427c6f89c875a_MD5.png\|350](/img/user/0publish/attachments/202aad1f2d3038f8672427c6f89c875a_MD5.png)
 
-![_resources/11296c1236dc048180afd228080f3760_MD5.png\|350](/img/user/_resources/11296c1236dc048180afd228080f3760_MD5.png)
+![11296c1236dc048180afd228080f3760_MD5.png\|350](/img/user/0publish/attachments/11296c1236dc048180afd228080f3760_MD5.png)
 
 ## 第九步：关闭 iOS 软件自动更新
 
@@ -218,7 +218,7 @@
 
 点击 **覆写**，进入覆写页面：
 
-![Pasted image 20260807211141.png\|350](/img/user/_resources/Pasted%20image%2020260807211141.png)
+![Pasted image 20260807211141.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211141.png)
 
 长按待删除的旧插件，然后点击 **删除**：
 
@@ -228,21 +228,21 @@
 
 点击右上角 **+** 按钮，选择 **从 URL 下载配置...**，将售后提供的**新模块链接**粘贴到输入框中，点击 **下载**。
 
-![Pasted image 20260807211324.png\|350](/img/user/_resources/Pasted%20image%2020260807211324.png)
+![Pasted image 20260807211324.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211324.png)
 
-![Pasted image 20260807211346.png\|350](/img/user/_resources/Pasted%20image%2020260807211346.png)
+![Pasted image 20260807211346.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211346.png)
 
-![Pasted image 20260807211609.png\|350](/img/user/_resources/Pasted%20image%2020260807211609.png)
+![Pasted image 20260807211609.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211609.png)
 
 ### 步骤 3：安装新模块
 
 下载完成后，向下滑动找到 **安装** 按钮，点击 **安装** 即可。
 
-![Pasted image 20260807211848.png\|350](/img/user/_resources/Pasted%20image%2020260807211848.png)
+![Pasted image 20260807211848.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211848.png)
 
-![Pasted image 20260807211940.png\|350](/img/user/_resources/Pasted%20image%2020260807211940.png)
+![Pasted image 20260807211940.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807211940.png)
 
-![Pasted image 20260807212115.png\|350](/img/user/_resources/Pasted%20image%2020260807212115.png)
+![Pasted image 20260807212115.png\|350](/img/user/0publish/attachments/Pasted%20image%2020260807212115.png)
 
 ### 步骤 4：重新连接并验证
 
