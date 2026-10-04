@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"dg/sh","permalink":"/dg/sh/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-09-30T15:30","modified":"2026-09-30T11:33:46+08:00"}}
+{"dg-publish":true,"dg-path":"dg/s","permalink":"/dg/s/","dg-note-properties":{"created":"2026-06-27T10:17","updated":"2026-10-04T10:29","modified":"2026-09-30T11:33:46+08:00"}}
 ---
 
 ## 系统要求
